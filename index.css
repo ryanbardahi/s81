@@ -1,0 +1,49 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.navbar {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.placeholder-image {
+  max-width: 100%;
+  height: auto;
+  border: 2px dashed #ccc;
+}
+
+/* Section Styles */
+section {
+  padding: 40px 20px;
+}
+
+#home {
+  background: #f8f9fa;
+}
+
+#categories-section {
+  background: #fff;
+}
+
+#about {
+  background: #f8f9fa;
+}
+
+h1, h2, h3 {
+  color: #333;
+}
+
+p, ul {
+  color: #555;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 5px 0;
+}
